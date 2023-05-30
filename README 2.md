@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Gilbert Victor, Intermidate Data Scientist with a Good Background in Analytics and statistics
+### 👋 Hi, I’m Ovie Iboyitie, Intermidate Data Scientist with a Good Background in Analytics and statistics
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
