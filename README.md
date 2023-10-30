@@ -5,13 +5,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/victor-gilbert-ab1059229">
+  <a href="https://www.linkedin.com/in/ovie-iboyitie-604a81168/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/victorxgilbert">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
+    
 </div>
 
 ### :hammer_and_wrench: Languages and Tools/Frameworks :
@@ -44,8 +41,6 @@
 <img src="https://user-images.githubusercontent.com/98072583/198285920-2a851732-3cc7-4eff-b3c7-8d0db78fa666.png" title="Oracle" alt="Oracle" width="125" height="125"/>&nbsp;
 
 
-## Competitions
-  <img src="https://user-images.githubusercontent.com/98072583/198279685-548df1e8-e9e8-42fc-8fc4-673c7f6a8743.png" title="DSN" alt="DSN" width="125" height="150"/>  <a>DSNxZINDI<a/>
 
 ## PROJECTS
     
